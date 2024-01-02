@@ -1,0 +1,1 @@
+import * as m1 from 'index.js';
